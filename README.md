@@ -1,2 +1,5 @@
 # Python-algorithms-for-clustering-systems
-This is a repository for the source code to a project called 'Python Algorithms for Hardwired Clustering Systems'. 
+
+Abstract
+
+A phylogenetic network is a directed acyclic graph often used in modelling evolutionary relationships where a tree does not suffice. A cluster is a subset of a set $X$, and a clustering system is a set of clusters. There are many properties of clustering systems from the literature, that are described mathematically but cannot currently be tested on actual data. In this thesis we provide polynomial-time algorithms in Python for properties, closed, L, hierarchy, weak hierarchy, paired hierarchy, N3O, pre-binary, binary, 2-Inc. With these algorithms, other research in phylogenetics and clustering systems can be preformed using real data. Here we provide algorithms for these properties, prove that they work and give their time complexity. In addition we provide an algorithm for constructing a Hasse diagram. The algorithms in this thesis allows users familiar with Python to easily test properties of phylogenetic networks using the corresponding clustering systems.
